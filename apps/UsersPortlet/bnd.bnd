@@ -1,0 +1,4 @@
+Bundle-Name: UsersPortlet
+Bundle-SymbolicName: ru.example.portlet
+Bundle-Version: 1.0.0
+Export-Package: ru.example.portlet.constants

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="portlet3" target="11" />
+      <module name="portlet3.apps.UsersPortlet" target="11" />
+      <module name="portlet3.apps.UsersPortlet.main" target="11" />
+      <module name="portlet3.apps.UsersPortlet.test" target="11" />
+      <module name="portlet3.apps.UsersPortlet.testIntegration" target="11" />
+      <module name="portlet3.main" target="11" />
+      <module name="portlet3.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

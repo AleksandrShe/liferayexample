@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.liferay.portal:release.dxp.api:7.3.10.u20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay.portal/release.dxp.api/7.3.10.u20/35af1b99935ade5b5d40bacaf95f67598026dd19/release.dxp.api-7.3.10.u20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay.portal/release.dxp.api/7.3.10.u20/caf828c9480a6d3dc6d37a9ce6136f2b5a5eafb7/release.dxp.api-7.3.10.u20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

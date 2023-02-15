@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portlet3.iml" filepath="$PROJECT_DIR$/.idea/modules/portlet3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apps/portlet3.apps.iml" filepath="$PROJECT_DIR$/.idea/modules/apps/portlet3.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.iml" filepath="$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.main.iml" filepath="$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.test.iml" filepath="$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.testIntegration.iml" filepath="$PROJECT_DIR$/.idea/modules/apps/UsersPortlet/portlet3.apps.UsersPortlet.testIntegration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portlet3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/portlet3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portlet3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/portlet3.test.iml" />
+    </modules>
+  </component>
+</project>
