@@ -1,12 +1,10 @@
-<%@ page import="com.liferay.portal.kernel.util.ParamUtil" %>
 <%@ page import="com.liferay.portal.kernel.model.User" %>
 <%@ include file="init.jsp" %>
 
 <jsp:useBean id = "appUserService"  class = "ru.example.service.AppUserService" />
 <jsp:useBean id = "dateUtil"  class = "ru.example.util.DateUtils" />
 <%
-    long id = ParamUtil.getLong(request, "id");
-    user = appUserService.getUserById(id);
+    user = (User)session.getAttribute("user");
 %>
 <body>
 <html>

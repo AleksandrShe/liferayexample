@@ -16,7 +16,7 @@
 		<liferay-portlet:renderURL varImpl="userURL">
 			<portlet:param name="backURL" value="<%= currentURL %>"/>
 			<portlet:param name="mvcPath" value="/user.jsp"/>
-			<portlet:param name="id" value="<%= String.valueOf(user.getUserId()) %>"/>
+			<%session.setAttribute("user", (User)user); %>
 		</liferay-portlet:renderURL>
 		<liferay-ui:search-container-column-text property="fullName" href="<%=userURL%>" name="user name"/>
 	</liferay-ui:search-container-row>
